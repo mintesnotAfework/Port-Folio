@@ -245,6 +245,9 @@ section {
 .about-stats .progress-bars .progress-bar .progress-container .progress .html {
   width: 90%;
 }
+.about-stats .progress-bars .progress-bar .progress-container .progress .css {
+  width: 50%;
+}
 .about-stats .progress-bars .progress-bar .progress-container .progress .c {
   width: 50%;
 }
