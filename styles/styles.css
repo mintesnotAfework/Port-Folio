@@ -310,6 +310,7 @@ section {
   padding: 1rem 0;
   text-transform: uppercase;
   font-size: 1.3rem;
+  color: var(--color-secondary);
   font-weight: 600;
 }
 .timeline .timeline-item h5 span {
