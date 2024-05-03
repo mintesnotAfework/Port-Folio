@@ -415,8 +415,8 @@ section {
   left: 0;
   top: 0;
   z-index: -1;
-  -webkit-clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
-          clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
+  -webkit-clip-path: polygon(0 0, 50% 0, 0 51%, 50% 100%, 0 100%, 0% 50%);
+          clip-path: polygon(0 0, 50% 0, 0 51%, 50% 100%, 0 100%, 0% 50%);
 }
 .header-content .left-content .img {
   border-radius: var(--br-sm-2);
