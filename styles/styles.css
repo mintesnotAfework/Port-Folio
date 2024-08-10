@@ -183,6 +183,7 @@ section {
   color: var(--color-grey-1);
   line-height: 2rem;
   padding-bottom: 3rem;
+  height: 40rem;
 }
 
 .about-container {
@@ -302,7 +303,7 @@ section {
   width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-container .progress .c {
-  width: 50%;
+  width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-container .progress .django {
   width: 70%;
@@ -314,15 +315,21 @@ section {
   width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-container .progress .java {
-  width: 40%;
+  width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-container .progress .spring {
-  width: 15%;
+  width: 5%;
 }
 .about-stats .progress-bars .progress-bar .progress-container .progress .react {
   width: 5%;
 }
 .about-stats .progress-bars .progress-bar .progress-container .progress .python {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-container .progress .laravel {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-container .progress .php {
   width: 90%;
 }
 
